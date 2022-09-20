@@ -1,0 +1,23 @@
+{
+  "name": "blockchain2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/elielnfinic/ethsafari-dump.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elielnfinic/ethsafari-dump/issues"
+  },
+  "homepage": "https://github.com/elielnfinic/ethsafari-dump#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.11.2"
+  }
+}
